@@ -1,0 +1,9 @@
+Package: com.hyangu.wechatnotification
+Name: WeChatNotificationTweak
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: 为微信添加自定义通知设置
+Maintainer: Hyangu
+Author: Hyangu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0) 
